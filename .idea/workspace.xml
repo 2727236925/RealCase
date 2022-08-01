@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ded8c73-c837-494a-ad77-ed8482836c99" name="变更" comment="workspace.xml和vcs.xml提交" />
+    <list default="true" id="2ded8c73-c837-494a-ad77-ed8482836c99" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +230,7 @@
       <workItem from="1659233517251" duration="15011000" />
       <workItem from="1659313490474" duration="1134000" />
       <workItem from="1659314776861" duration="133000" />
-      <workItem from="1659315277374" duration="724000" />
+      <workItem from="1659315277374" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="workspace.xml和vcs.xml提交">
       <created>1659315998651</created>
@@ -237,7 +239,7 @@
       <option name="project" value="LOCAL" />
       <updated>1659315998651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
