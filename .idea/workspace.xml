@@ -231,6 +231,7 @@
       <workItem from="1659313490474" duration="1134000" />
       <workItem from="1659314776861" duration="133000" />
       <workItem from="1659315277374" duration="1157000" />
+      <workItem from="1659319528480" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="workspace.xml和vcs.xml提交">
       <created>1659315998651</created>
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659315998651</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="workspace.xml更新内容测试">
+      <created>1659317882241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659317882242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +266,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="workspace.xml和vcs.xml提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml和vcs.xml提交" />
+    <MESSAGE value="workspace.xml更新内容测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml更新内容测试" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
